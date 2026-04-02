@@ -1,3 +1,5 @@
+Note: View Readme file in code format. Will change the format in future
+
 **Prometheus Sharding & Thanos Setup
 **
 This project demonstrates:
